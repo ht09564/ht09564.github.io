@@ -167,21 +167,16 @@ CCTV17[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/32212259
 CCTV4K超高清[1920*1080],http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?$全网蓝光1080P
 发现之旅[1047*576],http://111.20.33.93/PLTV/88888893/224/3221226235/index.m3u8?zyangd
 中国教育1[1920*1080],http://117.148.179.156/PLTV/88888888/224/3221231714/index.m3u8
-中国教育1[859*480],http://117.148.179.149/PLTV/88888888/224/3221231552/index.m3u8
-中国教育1[1047*576],http://111.63.117.13:6060/030000001000/G_CETV-1/G_CETV-1.m3u8
 中国教育1[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225917/index.m3u8?fmt=ts2hls
 中国教育1[1920*1080],http://117.148.179.157/PLTV/88888888/224/3221231714/index.m3u8?zyangd
-中国教育1[768*576],http://39.135.32.6:6610/PLTV/77777777/224/3221225776/index.m3u8?servicetype=1&IASHttpSessionId=OTT?zyangd
 中国教育2[1280*720],http://txycsbl.centv.cn/zb/0104cetv2.m3u8?zyangd
 中国教育2[1047*576],http://111.63.117.13:6060/030000001000/G_CETV-2/G_CETV-2.m3u8
 中国教育2[1024*576],http://39.135.32.6:6610/PLTV/77777777/224/3221225881/index.m3u8?servicetype=1&IASHttpSessionId=OTT?zyangd
 中国教育4[1280*720],http://txycsbl.centv.cn/zb/0104cetv4.m3u8?zyangd
 中国教育4[1024*576],http://39.135.32.6:6610/PLTV/77777777/224/3221225723/index.m3u8?servicetype=1&IASHttpSessionId=OTT?zyangd
 CNC中文[1280*720],http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
-CGTN[859*480],http://117.148.179.174/PLTV/88888888/224/3221231592/index.m3u8
 CGTN[1024*576],https://live.cgtn.com/1000/prog_index.m3u8?zyangd
 CGTN[1024*576],http://39.135.138.58:18890/ysten-businessmobile/live/cctvennews/1.m3u8?zyangd
-CGTN纪录[859*480],http://117.148.179.144/PLTV/88888888/224/3221231492/index.m3u8
 卫视频道,#genre#
 三沙卫视[1280*720],http://pull2.ssws.tv/live/SswsTV20210803.m3u8?zhaind
 东南卫视[1920*1080],http://59.49.41.41/live.aishang.ctlcdn.com/00000110240588_1/encoder/0/playlist.m3u8?
@@ -293,14 +288,10 @@ CGTN纪录[859*480],http://117.148.179.144/PLTV/88888888/224/3221231492/index.m3
 湖南卫视[1920*1080],http://39.134.65.181/PLTV/88888888/224/3221225506/index.m3u8
 湖南卫视[1920*1080],http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hnwshd/4000000/mnf.m3u8
 湖南卫视[1920*1080],http://117.148.179.135/PLTV/88888888/224/3221230206/index.m3u8?zweid
-湖南卫视[1920*1080],http://117.148.179.148/PLTV/88888888/224/3221230824/index.m3u8?zweid
-湖南卫视[1920*1080],http://117.148.179.172/PLTV/88888888/224/3221231729/index.m3u8
 湖南卫视[1920*1080],http://117.148.179.135/PLTV/88888888/224/3221230206/index.m3u8
 湖南卫视[1920*1080],http://117.148.179.148/PLTV/88888888/224/3221230824/index.m3u8
 湖南卫视[1920*1080],http://117.148.179.172/PLTV/88888888/224/3221231729/index.m3u8?zweid
-湖南卫视[1920*1080],http://117.148.179.172/PLTV/88888888/224/3221231729/index.m3u8?zweid
 湖南卫视[1920*1080],http://39.134.65.162/PLTV/88888888/224/3221225506/index.m3u8
-湖南卫视[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225745/index.m3u8
 湖南卫视[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225704/index.m3u8
 湖南卫视[1920*1080],http://39.135.138.59:18890/PLTV/88888910/224/3221225745/index.m3u8?zweid
 湖南卫视[1920*1080],http://39.135.32.24:6610/000000001000/1000000001000009115/1.m3u8?xtkg?zweid
@@ -440,8 +431,7 @@ CGTN纪录[859*480],http://117.148.179.144/PLTV/88888888/224/3221231492/index.m3
 厦门卫视[768*576],http://39.135.32.10:6610/000000001000/SD-4000k-576P-xiamenstv/1.m3u8?IASHttpSessionId=OTT?zweimd
 云南卫视[768*576],http://39.135.32.10:6610/000000001000/SD-4000k-576P-yunnanstv/1.m3u8?IASHttpSessionId=OTT?zweimd
 云南卫视[768*576],http://39.135.32.24:6610/000000001000/1000000002000024694/1.m3u8?xtkg?zweimd
-山西卫视[768*576],http://39.135.32.10:6610/000000001000/SD-4000k-576P-shanxistv/1.m3u8?IASHttpSessionId=OTT?zweimd
-山西卫视[768*576],http://39.135.32.24:6610/000000001000/1000000002000021220/1.m3u8?xtkg?zweimd
+山西卫视[1920*1080],http://055042edb00196e0e67b01fb7dc4fdff.livehwc3.cn/liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=c062cf4d4719f2fad44a894192891042
 上海纪实[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225655/index.m3u8
 上海纪实[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225654/index.m3u8
 上海纪实[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225609/index.m3u8?fmt=ts2hls
@@ -462,43 +452,23 @@ CGTN纪录[859*480],http://117.148.179.144/PLTV/88888888/224/3221231492/index.m3
 凤凰资讯[960*540],http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯[960*540],https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8?zgangd
 凤凰资讯[960*540],https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8?zgangd
-凤凰资讯[960*540],http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8?zgangd
-凤凰资讯[960*540],http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8?zgangd
-凤凰资讯[960*540],http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8?zgangd
-凤凰资讯[960*540],http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv1.m3u8
-凤凰资讯[960*540],https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰香港[1920*1080],http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
 凤凰中文[1920*1080],http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰中文[960*540],http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰中文[960*540],http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
-凤凰中文[960*540],http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 凤凰中文[1920*1080],http://111.59.189.40:8445/tsfile/live/1020_1.m3u8?zgangd
 凤凰中文[1920*1080],http://124.238.99.44:808/hls/348/index.m3u8
-凤凰中文[960*540],http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv1.m3u8
-凤凰中文[960*540],http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv2.m3u8
-凤凰中文[960*540],https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文[960*540],https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 凤凰中文[960*540],https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
 香港卫视[1024*576],http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+卫视中文台[1920*1080],http://61.219.170.95:18522/http/192.168.1.9:8081/hls/62/804/ch05.m3u8
 澳门莲花[1920*1080],http://nettvpro.live/hls/lotustv.php
-澳门莲花[1920*1080],http://anren.live/HK/BiIOU11uLA.m3u8
 澳门莲花[1920*1080],http://anren.live/HK/BiIOU11uLA.m3u8?zgangd
 澳门莲花[1920*1080],http://nettvpro.live/hls/lotustv.php?zgangd
-澳门资讯[1280*720],http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8?zgangd
-澳门资讯[1280*720],http://61.244.22.4/ch5/info_ch5.live/chunklist_w1046558591.m3u8
-澳门资讯[1280*720],http://103.233.191.133:1935/ch5/info_ch5.live/playlist.m3u8?zgangd
-澳门资讯[1280*720],http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
 澳门Macau[1280*720],http://61.244.22.4/ch3/ch3.live/playelist.m3u8
 澳门Macau[1280*720],http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8?zgangd
 澳门Macau[1280*720],http://103.233.191.133:1935/ch3/ch3.live/playlist.m3u8?zgangd
 澳门Macau[1280*720],http://103.233.191.132:1935/ch3/ch3.live/playlist.m3u8?zgangd
 澳门Macau[1280*720],http://61.244.22.4/ch3/ch3.live/index.m3u8?zgangd
 澳门Macau[1280*720],http://61.244.22.4/ch3/ch3.live/playelist.m3u8?zgangd
-澳视澳门[1280*720],http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8
-澳视澳门[1280*720],http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
-澳视澳门[1280*720],http://61.244.22.4/ch1/ch1.live/playelist.m3u8
-澳门macau[1280*720],http://124.238.99.44:808/hls/357/index.m3u8
-澳门卫视[1280*720],http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
 澳门综艺[1280*720],http://103.233.191.132:1935/ch6/hd_ch6.live/playlist.m3u8?zgangd
 澳门综艺[1280*720],http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8?zgangd
 澳门综艺[1280*720],http://103.233.191.133:1935/ch6/hd_ch6.live/playlist.m3u8?zgangd
@@ -516,7 +486,6 @@ TVBS歡樂[1280*720],rtmp://59.124.75.138/sat/tv421
 台视新闻[1920*1080],http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 番薯[1920*1080],http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 番薯[1920*1080],http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-緯來日本[1280*720],rtmp://59.124.75.138/sat/tv771
 耀才财经[1024*576],http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 耀才财经[1024*576],http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
 耀才财经[1024*576],https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
@@ -525,8 +494,6 @@ CNC英文台[1280*720],http://39.135.138.59:18890/PLTV/88888910/224/3221225693/i
 上海外语[1920*1080],http://180.163.152.145/tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/wypdhd/4000000/mnf.m3u8
 上海纪实[1920*1080],http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
 上海纪实[1920*1080],http://180.163.152.145/tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/jspdhd/4000000/mnf.m3u8
-法制天地[736*540],http://183.207.255.188/live/program/live/fztd/1300000/mnf.m3u8
-浦东财经[982*540],http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8
 生活时尚[1920*1080],http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
 新闻综合[1920*1080],http://180.163.152.145/keonline.shanghai.liveplay.qq.com/live/program/live/xwzhhd/4000000/mnf.m3u8
 东方影视[1920*1080],http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
@@ -536,8 +503,6 @@ CNC英文台[1280*720],http://39.135.138.59:18890/PLTV/88888910/224/3221225693/i
 极速汽车[1920*1080],http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8
 动漫秀场[1920*1080],http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8
 欢笑剧场[1920*1080],http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
-哈哈炫动[1920*1080],http://183.207.255.188/live/program/live/hhxdhd/4000000/mnf.m3u8
-哈哈炫动[736*540],http://183.207.255.188/live/program/live/xdkt/1300000/mnf.m3u8
 北京卫视[1920*1080],https://223.111.24.111/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?
 北京文艺[1920*1080],https://27.221.30.10/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?
 北京影视[1920*1080],https://223.111.24.111/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?
@@ -546,7 +511,6 @@ CNC英文台[1280*720],http://39.135.138.59:18890/PLTV/88888910/224/3221225693/i
 北京东奥[1920*1080],https://103.15.99.48/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?
 北京青年[1920*1080],https://223.111.24.111/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s8/index.m3u8?
 北京新闻[1920*1080],https://223.111.24.111/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?
-北京卡酷少儿[1920*1080],https://223.111.24.111/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?
 北京卫视[1920*1080],https://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?
 北京文艺[1920*1080],https://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?
 北京科教[1920*1080],https://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?
@@ -561,7 +525,6 @@ CNC英文台[1280*720],http://39.135.138.59:18890/PLTV/88888910/224/3221225693/i
 江苏国际[1280*720],https://litchiapp-hls.jstv.com/lizhiapp/jsgj.m3u8
 江苏靓妆[1280*720],https://litchiapp-hls.jstv.com/lizhiapp/jslz.m3u8
 江苏学习[1280*720],https://litchiapp-hls.jstv.com/lizhiapp/xxpd.m3u8
-优漫卡通[1280*720],https://litchiapp-hls.jstv.com/lizhiapp/ymkt.m3u8
 江苏公共新闻[1280*720],https://litchiapp-hls.jstv.com/lizhiapp/jsgg.m3u8
 江苏体育休闲[1280*720],https://litchiapp-hls.jstv.com/lizhiapp/jsty.m3u8
 南京教科频道[1280*720],http://live.nbs.cn/channels/njtv/jkpd/m3u8:500k/live.m3u8
@@ -591,10 +554,8 @@ CNC英文台[1280*720],http://39.135.138.59:18890/PLTV/88888910/224/3221225693/i
 央视少儿[1920*1080],http://39.135.32.24:6610/000000001000/1000000001000008170/1.m3u8?i?zzhongd
 央视少儿[1920*1080],http://39.135.32.6:6610/PLTV/77777777/224/3221225648/index.m3u8?servicetype=1&IASHttpSessionId=OTT?zzhongd
 央视少儿[1280*720],http://111.40.196.30/PLTV/88888888/224/3221225573/index.m3u8?zyangd
-央视少儿[1024*576],http://111.63.117.13:6060/030000001000/G_CCTV-14/G_CCTV-14.m3u8?zyangd
-北京卡酷少儿[1047*576],http://39.135.32.10:6610/000000001000/kakukaton/1.m3u8?IASHttpSessionId=OTT?zbeid
+北京卡酷少儿[1920*1080],https://223.111.24.111/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?
 北京卡酷少儿[1024*576],http://39.135.32.24:6610/000000001000/7589856436881630561/1.m3u8?xtkg
-北京卡酷少儿[1047*576],http://39.135.32.6:6610/PLTV/77777777/224/3221225730/index.m3u8?servicetype=1&IASHttpSessionId=OTT?zbeid
 北京卡酷少儿[1047*576],http://39.135.138.60:18890/PLTV/88888888/224/3221225677/index.m3u8?zbeid
 北京卡酷少儿[1047*576],http://111.63.117.13:6060/030000001000/G_KAKU/G_KAKU.m3u8?zbeid
 南京少儿[1280*720],http://live.nbs.cn/channels/njtv/sepd/500k.m3u8?zjiangsd
@@ -605,15 +566,13 @@ CNC英文台[1280*720],http://39.135.138.59:18890/PLTV/88888910/224/3221225693/i
 金鹰卡通少儿[1047*576],http://39.135.32.24:6610/000000001000/1000000002000016601/1.m3u8?xtkg
 嘉佳卡通少儿[1023*576],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226193/index.m3u8
 嘉佳卡通少儿[1023*576],http://39.135.32.24:6610/000000001000/1000000002000025964/1.m3u8?xtkg
-优漫卡通少儿[1047*576],http://183.207.249.15:80/PLTV/4/224/3221225933/index.m3u8?
-优漫卡通少儿[1047*576],http://39.135.32.24:6610/000000001000/1000000002000010063/1.m3u8?xtkg
+优漫卡通[1280*720],https://litchiapp-hls.jstv.com/lizhiapp/ymkt.m3u8
 深圳少儿[1280*720],http://ye23.win/iptv/sztv.php?id=7?zguangd
 浙江少儿[1920*1080],http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?zzhed
 浙江少儿[1920*1080],http://yd-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?zzhed
-浙江少儿[1280*720],http://hw-m-l.cztv.com/channels/lantian/channel08/720p.m3u8?zzhed
 浙江少儿[1920*1080],http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
 福州少儿[1920*1080],http://live.zohi.tv/video/s10001-sepd-4/index.m3u8?zfud
-哈哈炫动[768*576],http://39.135.138.59:18890/PLTV/88888910/224/3221225720/index.m3u8
+哈哈炫动[1920*1080],http://183.207.255.188/live/program/live/hhxdhd/4000000/mnf.m3u8
 哈哈炫动[768*576],http://39.135.32.24:6610/000000001000/1000000002000000172/1.m3u8?xtkg
 动漫秀场[1920*1080],http://140.207.241.2:8080/live/program/live/dmxchd/4000000/mnf.m3u8
 黑莓动画[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225672/index.m3u8
@@ -630,15 +589,15 @@ CNC英文台[1280*720],http://39.135.138.59:18890/PLTV/88888910/224/3221225693/i
 【柯南3】[1280*720],http://epg.112114.xyz/douyu/1783144
 【柯南4】[1280*720],http://epg.112114.xyz/douyu/7050342
 动漫直播间1[1280*720],http://epg.112114.xyz/douyu/7190773
-动漫直播间1[1280*720],http://epg.112114.xyz/douyu/997925
-动漫直播间1[1280*720],http://epg.112114.xyz/douyu/6610883
-动漫直播间1[1280*720],http://epg.112114.xyz/douyu/7422897
-动漫直播间2[1920*1080],http://epg.112114.xyz/douyu/9765742
-动漫直播间1[1280*720],http://epg.112114.xyz/douyu/7256376
-动漫直播间1[1280*720],http://epg.112114.xyz/douyu/1487654
-动漫直播间1[1280*720],http://epg.112114.xyz/douyu/1174353
-动漫直播间1[1920*1080],http://epg.112114.xyz/douyu/206858
-动漫直播间1[1280*720],http://epg.112114.xyz/douyu/9429545
+动漫直播间2[1280*720],http://epg.112114.xyz/douyu/997925
+动漫直播间3[1280*720],http://epg.112114.xyz/douyu/6610883
+动漫直播间4[1280*720],http://epg.112114.xyz/douyu/7422897
+动漫直播间5[1920*1080],http://epg.112114.xyz/douyu/9765742
+动漫直播间6[1280*720],http://epg.112114.xyz/douyu/7256376
+动漫直播间7[1280*720],http://epg.112114.xyz/douyu/1487654
+动漫直播间8[1280*720],http://epg.112114.xyz/douyu/1174353
+动漫直播间9[1920*1080],http://epg.112114.xyz/douyu/206858
+动漫直播间10[1280*720],http://epg.112114.xyz/douyu/9429545
 【动画电影】童年回忆[1920*1080],http://epg.112114.xyz/douyu/10395973
 【星星动画】童年热血搞笑爱情[1920*1080],http://epg.112114.xyz/douyu/4369939
 【追忆】国语超清动画电影[1920*1080],http://epg.112114.xyz/douyu/6449849
@@ -649,7 +608,7 @@ CNC英文台[1280*720],http://39.135.138.59:18890/PLTV/88888910/224/3221225693/i
 二次元放映室，有呐味儿了![1920*1080],http://epg.112114.xyz/douyu/8912038
 中二日记搞笑日常更新[1920*1080],http://epg.112114.xyz/douyu/9505575
 动漫推荐官方直播间[1920*1080],http://epg.112114.xyz/douyu/5187099
-【经典动漫】9455567[1920*1080],http://epg.112114.xyz/douyu/9455567
+【经典动漫】[1920*1080],http://epg.112114.xyz/douyu/9455567
 鲁过一世的直播间[1280*720],http://epg.112114.xyz/douyu/9716515
 星海璃幻V的直播间[1920*1080],http://epg.112114.xyz/douyu/9567313
 铁头与橘子（每周更新一起看霸总）[1080*1920],http://epg.112114.xyz/douyu/9450942
@@ -674,7 +633,6 @@ CNC英文台[1280*720],http://39.135.138.59:18890/PLTV/88888910/224/3221225693/i
 经典番剧/动漫/剧场版24时轮播[1280*720],http://zzy789.xyz/bili.php?id=21751462
 童年回忆X百变小樱7X24最全资源轮播[1280*720],http://zzy789.xyz/bili.php?id=34340
 经典动漫（推理、童年、灵异）[1280*720],http://zzy789.xyz/bili.php?id=4089143
-咱们裸熊！24小时循环直播！[848*480],http://zzy789.xyz/bili.php?id=11168667
 影视频道,#genre#
 CHC家庭影院[1920*1080],http://59.49.41.41/live.aishang.ctlcdn.com/00000110240323_1/encoder/0/playlist.m3u8?
 CHC家庭影院[1920*1080],http://111.20.33.93/PLTV/88888893/224/3221226462/index.m3u8
@@ -691,7 +649,8 @@ CHC动作电影[1920*1080],http://111.20.33.93/PLTV/88888893/224/3221226465/inde
 特辑影院[1280*720],http://epg.112114.xyz/douyu/3637778
 贝爷MAX厅[1920*1080],http://epg.112114.xyz/douyu/4332
 漫威影片[1920*1080],http://epg.112114.xyz/douyu/6140589
-刘德华电影2[1920*1080],http://epg.112114.xyz/douyu/8985415
+刘德华电影1[1920*1080],http://epg.112114.xyz/douyu/8985415
+刘德华电影2[1920*1080],http://117.148.179.154/PLTV/88888888/224/3221231757/1.m3u8
 喜剧经典[1920*1080],http://epg.112114.xyz/douyu/9650887
 豆瓣高分[1280*720],http://epg.112114.xyz/douyu/8770422
 林正英电影1[1920*1080],http://epg.112114.xyz/douyu/218859
@@ -741,6 +700,7 @@ CHC动作电影[1920*1080],http://111.20.33.93/PLTV/88888893/224/3221226465/inde
 66.成龙经典[1280*720],http://txtest-xp2p.p2p.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1-imgplus.xs
 67.李连杰系列[1280*720],http://txtest-xp2p.p2p.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.xs
 68.星爷经典[1280*720],http://txtest-xp2p.p2p.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1-imgplus.xs
+星爷经典[1280*720],http://121.51.249.48/tx.hls.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1-imgplus.m3u8
 69.沈腾经典[1920*1080],http://txtest-xp2p.p2p.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.xs
 70.【讲】阿斗归来了[1920*1080],http://txtest-xp2p.p2p.huya.com/src/94525224-2583571962-11096357083652554752-3503038830-10057-A-0-1-imgplus.xs
 鯎爺 滚滚长江东逝水[696*424],http://txtest-xp2p.p2p.huya.com/src/1423787831-1423787831-6115122170587774976-2847699118-10057-A-0-1-imgplus.xs
@@ -754,26 +714,20 @@ CHC动作电影[1920*1080],http://111.20.33.93/PLTV/88888893/224/3221226465/inde
 扁豆看电影[1920*1080],http://txtest-xp2p.p2p.huya.com/src/94525224-2703099090-11609722189397360640-4587890396-10057-A-0-1.xs
 【火影重置版04】[1920*1080],http://txtest-xp2p.p2p.huya.com/src/1199512574006-1199512574006-5225679931584806912-2399025271468-10057-A-0-1.xs
 枫哥视[1920*1080],http://txtest-xp2p.p2p.huya.com/src/1199579767212-1199579767212-5514272553868197888-2399159657880-10057-A-0-1.xs
-我是詹密[640*480],http://txtest-xp2p.p2p.huya.com/src/1448738195-1448738195-6222283167991070720-2789274594-10057-A-0-1.xs
 利世-余小二[1280*720],http://txtest-xp2p.p2p.huya.com/src/146501201-146501201-629217867119722496-293125858-10057-A-0-1.xs
 新水hu[1104*622],http://txtest-xp2p.p2p.huya.com/src/1394565188-1394565188-5989611874600091648-2789253832-10057-A-0-1.xs
-领带哥 许三多军营成长史[624*336],http://txtest-xp2p.p2p.huya.com/src/1394575555-1394575555-5989656400526049280-2789274566-10057-A-0-1.xs
-康熙·民间私访[704*528],http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2789274536-10057-A-0-1.xs
 傻妞 【邻li一家亲】满院白眼狼[1024*576],http://txtest-xp2p.p2p.huya.com/src/1394575549-1394575549-5989656374756245504-2789274554-10057-A-0-1-imgplus.xs
 科幻梦工场 科幻电影《沙丘魔蚁》[1920*1080],http://txtest-xp2p.p2p.huya.com/src/94525224-2682536056-11521404630860824576-3512313440-10057-A-0-1-imgplus.xs
-易中天品三国[480*360],http://txtest-xp2p.p2p.huya.com/src/1524434067-1524434067-6547394462673272832-3048991590-10057-A-0-1.xs
 yao不能停 在外三藏獒，在家三二哈[1920*1072],http://txtest-xp2p.p2p.huya.com/src/1524418106-1524418106-6547325910700261376-3048959668-10057-A-0-1.xs
 柯冉冉 龙men·老奸巨猾年掌柜[960*540],http://txtest-xp2p.p2p.huya.com/src/1449698121-1449698121-6226406018767650816-2847687516-10057-A-0-1.xs
 萌新司机 大秦，终章！[1920*1080],http://txtest-xp2p.p2p.huya.com/src/1449698864-1449698864-6226409209928351744-2847687540-10057-A-0-1.xs
 实力拔萝卜 搞笑恐怖类 弹幕护体[1920*1080],http://txtest-xp2p.p2p.huya.com/src/1524418070-1524418070-6547325756081438720-3048959596-10057-A-0-1.xs
-Wang-我的女人 康熙大帝的传奇一生[720*528],http://txtest-xp2p.p2p.huya.com/src/1448737923-1448737923-6222281999759966208-2847699110-10057-A-0-1.xs
 父母爱情[960*540],http://txtest-xp2p.p2p.huya.com/src/1524439831-1524439831-6547419218864766976-3049003118-10057-A-0-1-imgplus.xs
 神tan狄仁杰·[1280*720],http://txtest-xp2p.p2p.huya.com/src/1394575548-1394575548-5989656370461278208-2789274552-10057-A-0-1-imgplus.xs
 张学友[960*540],http://txtest-xp2p.p2p.huya.com/src/94525224-2672048638-11476361513531342848-3153216706-10057-A-0-1.xs
 神貂侠侣[1280*720],http://txtest-xp2p.p2p.huya.com/src/1423787869-1423787869-6115122333796532224-2847699194-10057-A-0-1-imgplus.xs
 胡八一胖子[848*480],http://txtest-xp2p.p2p.huya.com/src/1423782025-1423782025-6115097234007654400-2847687506-10057-A-0-1.xs
 止戈电影[1920*1080],http://txtest-xp2p.p2p.huya.com/src/1199522933703-1199522933703-5270174491396276224-2399045990862-10057-A-0-1.xs
-母胎solo二百年[512*384],http://txtest-xp2p.p2p.huya.com/src/1524418114-1524418114-6547325945059999744-3048959684-10057-A-0-1.xs
 昵称违规[1280*720],http://txtest-xp2p.p2p.huya.com/src/1423787855-1423787855-6115122273666990080-2847699166-10057-A-0-1.xs
 南西视频[1920*1080],http://txtest-xp2p.p2p.huya.com/src/1199512045291-1199512045291-5223409117950902272-2399024214038-10057-A-0-1.xs
 凌莲 你怎么看待六子哥[720*400],http://txtest-xp2p.p2p.huya.com/src/1524439854-1524439854-6547419317649014784-3049003164-10057-A-0-1-imgplus.xs
@@ -991,7 +945,7 @@ MG2[1920*1080],http://39.135.46.102:6610/PLTV/77777777/224/3221225876/index.m3u8
 19MG体育*[1920*1080],http://39.135.46.102:6610/PLTV/77777777/224/3221225796/index.m3u8?hls
 20MG体育[1920*1080],http://39.135.46.102:6610/PLTV/77777777/224/3221225793/index.m3u8?hls
 21MG体育[1920*1080],http://39.135.46.102:6610/PLTV/77777777/224/3221225792/index.m3u8?hls
-22MG体育[0*0],http://39.135.46.102:6610/PLTV/77777777/224/3221225789/index.m3u8?hls
+22MG体育[1920*1080],http://39.135.46.102:6610/PLTV/77777777/224/3221225789/index.m3u8?hls
 23MG体育[1920*1080],http://39.135.46.102:6610/PLTV/77777777/224/3221225786/index.m3u8?hls
 24MG体育[1920*1080],http://39.135.46.102:6610/PLTV/77777777/224/3221225783/index.m3u8?hls
 25MG体育[1920*1080],http://39.135.46.102:6610/PLTV/77777777/224/3221225780/index.m3u8?hls
