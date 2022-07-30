@@ -634,16 +634,12 @@ CNC英文台[1280*720],http://39.135.138.59:18890/PLTV/88888910/224/3221225693/i
 童年回忆X百变小樱7X24最全资源轮播[1280*720],http://zzy789.xyz/bili.php?id=34340
 经典动漫（推理、童年、灵异）[1280*720],http://zzy789.xyz/bili.php?id=4089143
 影视频道,#genre#
-CHC家庭影院[1920*1080],http://59.49.41.41/live.aishang.ctlcdn.com/00000110240323_1/encoder/0/playlist.m3u8?
 CHC家庭影院[1920*1080],http://111.20.33.93/PLTV/88888893/224/3221226462/index.m3u8
 CHC家庭影院[1920*1080],http://117.148.179.151/PLTV/88888888/224/3221231799/index.m3u8
 CHC家庭影院[1920*1080],http://117.148.179.154/PLTV/88888888/224/3221231799/index.m3u8?zyangd
-CHC高清电影[1920*1080],http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/encoder/0/playlist.m3u8?
 CHC高清电影[1920*1080],http://111.20.33.93/TVOD/88888893/224/3221226463/index.m3u8
-CHC动作电影[1920*1080],http://59.49.41.41/live.aishang.ctlcdn.com/00000110240324_1/encoder/0/playlist.m3u8?
 CHC动作电影[1920*1080],http://111.20.33.93/PLTV/88888893/224/3221226465/index.m3u8
-神乐影片1[1920*1080],http://epg.112114.xyz/douyu/122402
-神乐影片2[1920*1080],http://epg.112114.xyz/douyu/85894
+神乐影片[1920*1080],http://epg.112114.xyz/douyu/85894
 周末影院[1920*1080],http://epg.112114.xyz/douyu/3637765
 金马影院[1280*720],http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 特辑影院[1280*720],http://epg.112114.xyz/douyu/3637778
