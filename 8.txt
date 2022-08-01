@@ -1,5 +1,5 @@
 {
-  "spider":"http://home.jundie.top:81/jar/top94.jar",
+  "spider":"https://ht09564.github.io/XP&XB/top94.jar",
   "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9odDA5NTY0LmdpdGh1Yi5pby9teXR2LnR4dA=="]}]}],
 
   "sites":[
