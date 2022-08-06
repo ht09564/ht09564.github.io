@@ -1,6 +1,5 @@
 {
-	//微信公众号：巧技  qq频道：https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=uDcBv&businessType=9&from=246610&biz=ka
-	"spider": "http://static01.imgkr.com/temp/b6f05a695f464317bc5b75df27fedad8.jpg;md5;7a7e8073d59022b0de11aa135c60b05f",
+	"spider": "https://shuyuan.miaogongzi.net/shuyuan/1659713026.txt;md5;2fa165c9aa72ada6ab74a3dedb58ff6b",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
 		"group": "redirect",
@@ -18,7 +17,16 @@
 		"quickSearch": 1,
 		"searchable": 1,
 		"ext": ""
-	}, {
+	},{
+	"key": "Lezhu_spider",
+	"name": "🐞乐猪影视",
+	"api": "csp_Lezhu",
+	"type": 3,
+	"filterable": 1,
+	"quickSearch": 1,
+	"searchable": 1,
+	"ext": ""
+}, {
 		"key": "293视频",
 		"name": "🐞293视频",
 		"type": 3,
@@ -183,7 +191,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": ""
+		"ext": "dcbc975ad0684eb5a498ecd1836272e6"
 	}, {
 		"key": "FindZY",
 		"name": "🐞找资源",
@@ -192,7 +200,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": ""
+		"ext": "dcbc975ad0684eb5a498ecd1836272e6"
 	}, {
 		"key": "push_agent",
 		"name": "🐞推送",
@@ -201,7 +209,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 0,
-		"ext": "阿里Token"
+		"ext": "dcbc975ad0684eb5a498ecd1836272e6"
 	}, {
 		"key": "酷猫",
 		"name": "🐞酷猫",
