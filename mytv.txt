@@ -330,6 +330,32 @@ CGTN[1024*576],http://39.135.138.58:18890/ysten-businessmobile/live/cctvennews/1
 凤凰中文[960*540],https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 香港卫视[1024*576],http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 卫视中文台[1920*1080],http://61.219.170.95:18522/http/192.168.1.9:8081/hls/62/804/ch05.m3u8
+中天新聞台,p2p://fccs.word-tv.com:9906/625af85e0000d79c001149459e0c9b4f
+民視新聞台,p2p://fccs.word-tv.com:9906/625411d700086db70954149f159813c6
+東森新聞台,p2p://fccs.word-tv.com:9906/62540c77000699df093f1528c8c4d48a
+壹電視新聞台,p2p://fccs.word-tv.com:9906/62541b7c0007f8c30979c109c2ede6a3
+年代新聞台,p2p://fccs.word-tv.com:9906/62540c45000225da093e50b45b457d41
+VIU SIX,p2p://fccs.word-tv.com:9906/627160d00008ced7098cbc29e23c5e0c 
+J5無線財經新聞,p2p://fccs.word-tv.com:9906/62595c1a000d108b13b9e5d4f3816d5e 
+明珠台,p2p://fccs.word-tv.com:9906/6258eaca00006a3411ff4217b567e90f
+互動新聞,p2p://fccs.word-tv.com:9906/6258ea7a0006d8b111fe0b3c369d9e17
+翡翠台,p2p://fccs.word-tv.com:9906/6258ea0e00051f8e11fc64eb04aee473
+翡翠台,p2p://fccs.word-tv.com:9906/62d69c28000d0fc119896ef02f8afd00
+J2,p2p://fccs.word-tv.com:9906/6258eae70008a93811ffb57b47682072
+RHK31,p2p://fccs.word-tv.com:9906/62b98dad0001c89807518b63233fc2e4
+RHK32,p2p://fccs.word-tv.com:9906/62b98df6000aa94b0752aad18d7e36ce
+香港有線新聞,p2p://fccs.word-tv.com:9906/6258e930000d447111f903d1236f6fc8
+有線18台,p2p://fccs.word-tv.com:9906/626bc57e0002fcc70daa763a17885784 
+有線財經資訊,p2p://fccs.word-tv.com:9906/626bc59f000aad820daaf91ae564e9c6 
+有線603高清,p2p://fccs.word-tv.com:9906/626bc5c00008e69a0dab798eb8ae558d 
+香港有線電影,p2p://fccs.word-tv.com:9906/626bc5e5000b44cb0dac0ab18c230b75 
+有線綜合娛樂,p2p://fccs.word-tv.com:9906/626bc60b000392d40dac9d2923dd262b 
+有線衛視電影台,p2p://fccs.word-tv.com:9906/626bd4820001292c0de51d63fb84af95
+TVB星河高清頻道,p2p://fccs.word-tv.com:9906/6258eb4900053d031201336ba06ccbdc
+澳門蓮花,p2p://fccs.word-tv.com:9906/6258e686000e215f11ee9bf962767123
+鳳凰中文,p2p://fccs.word-tv.com:9906/6258288b0006f4a60f087dab170cf23e
+鳳凰資訊,p2p://fccs.word-tv.com:9906/6258281d0002e1400f06cef0fc77e330
+鳳凰香港,p2p://fccs.word-tv.com:9906/62582991000071710f0c7b707491d2e9
 TVB J2 HD[1920*1080],http://120.84.96.152:808/hls/86/index.m3u8
 TVBS新聞[1280*720],rtmp://59.124.75.138/sat/tv551
 TVBS新聞[1920*1080],http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
