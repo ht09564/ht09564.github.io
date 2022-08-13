@@ -9,7 +9,7 @@ proxies:
   - {name: YouTube梦歌2, server: 103.38.214.247, port: 40993, type: ss, cipher: chacha20-ietf-poly1305, password: wXBYwfW0ZyLk, udp: true}
   - {name: YouTube梦歌3, server: tw-oo-01.click, port: 443, type: trojan, password: q8uTrVmj95aTrFAa, sni: tw-oo-01.click}
   - {name: YouTube梦歌4, server: jike-vip-02.xyz, port: 443, type: trojan, password: q8uTrVmj95aTrFAa, sni: jike-vip-02.xyz}
-  - {name: YouTube梦歌5, server: fr.node.qchwnd.moe, port: 44612, type: trojan, password: c19e600d-5b19-48e4-9c6f-683ded859d09, sni: fr.node.qchwnd.moe}
+  - {name: YouTube梦歌5, server: h63956.strongpipe.live, port: 11245, type: http, username: dcf12c7e7d, password: 26bae9b023, tls: true}
   - {name: YouTube梦歌6, server: h63956.strongpipe.live, port: 11545, type: http, username: dcf12c7e7d, password: 26bae9b023, tls: true}
   - {name: YouTube梦歌7, server: h890361.strongpipe.live, port: 11545, type: http, username: dcf12c7e7d, password: 26bae9b023, tls: true}
   - {name: YouTube梦歌8, server: h517439.strongpipe.live, port: 11745, type: http, username: dcf12c7e7d, password: 26bae9b023, tls: true, skip-cert-verify: false}
