@@ -1,6 +1,6 @@
 {	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "spider":"https://ht09564.github.io/XP&XB/qj.jar;md5;06ed1a662fc19e4ea22f60f02770f4b6",
-  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9odDA5NTY0LmdpdGh1Yi5pby9teXR2LnR4dA=="]}]}],
+  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9kb3dubG9hZC5rc3RvcmUuc3BhY2UvZG93bmxvYWQvMjkwMC9teXR2LnR4dA=="]}]}],
 	"sites": [{
 		"key": "KanSJ_spider",
 		"name": "🐞看视界",
