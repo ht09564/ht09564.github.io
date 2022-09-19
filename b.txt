@@ -420,12 +420,9 @@
 
 //jar+壁纸
 
-  "spider":"https://yun.weetai.cn/资源包.jar",
+"spider":"https://download.kstore.space/download/2900/jar/cs.jar",
   
   "wallpaper":"https://tool.weetai.cn/api",
-//"spider": "https://gitea.com/zwx/itv/raw/branch/dev/jar/ys.jar",
-//"spider":"https://download.kstore.space/download/2900/jar/0831.jar",
-//"spider": "https://diver88.github.io/TV/JAR/kvymin0826.jar;md5;19F13E0DF418CCE76C9D27DB305C2FAF",
 //首页推荐
 
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",

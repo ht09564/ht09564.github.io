@@ -12,7 +12,7 @@
    
    "response": { "result": "$.data.itemList","data": [{"key": "keyword","value": "title"}]}}],
     
-  "spider":"https://download.kstore.space/download/2900/jar/0906.jar",
+  "spider":"https://download.kstore.space/download/2900/jar/0919.jar",
   
   "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=https://download.kstore.space/download/2900/mytv.txt"]}]}],
   
