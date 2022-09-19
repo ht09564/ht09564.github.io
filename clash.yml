@@ -21,8 +21,8 @@ proxies:
   - {name: YouTube梦歌14, server: h961359.strongpipe.live, port: 11545, type: http, username: dcf12c7e7d, password: 26bae9b023, tls: true}
   - {name: YouTube梦歌15, server: h961359.strongpipe.live, port: 11245, type: http, username: dcf12c7e7d, password: 26bae9b023, tls: true}
   - {name: YouTube梦歌16, server: h961359.strongpipe.live, port: 11745, type: http, username: dcf12c7e7d, password: 26bae9b023, tls: true}
-  - {name: YouTube梦歌17, server: s3.mine.com.cn, port: 4433, type: vmess, uuid: 77a286f4-0a0b-4ef7-aaef-a4fff60872e9, alterId: 0, cipher: auto, tls: false}
-  - {name: YouTube梦歌18, server: s1.mine.com.cn, port: 4433, type: vmess, uuid: 77a286f4-0a0b-4ef7-aaef-a4fff60872e9, alterId: 0, cipher: auto, tls: false}
+  - {name: YouTube梦歌17,server: h961359.strongpipe.live,port: 11345,type: http,username: dcf12c7e7d,password: 26bae9b023,tls: true,skip-cert-verify: true}
+  - {name: YouTube梦歌18,server: h3816tw.strongpipe.live,port: 20444,type: http,username: dcf12c7e7d,password: 26bae9b023,tls: true,skip-cert-verify: true}
   - {name: YouTube梦歌19, server: s4.mine.com.cn, port: 4433, type: vmess, uuid: 77a286f4-0a0b-4ef7-aaef-a4fff60872e9, alterId: 0, cipher: auto, tls: false}
   - {name: YouTube梦歌20, server: s2.mine.com.cn, port: 4433, type: vmess, uuid: 77a286f4-0a0b-4ef7-aaef-a4fff60872e9, alterId: 0, cipher: auto, tls: false}
 proxy-groups:
