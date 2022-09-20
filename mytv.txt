@@ -1,30 +1,7 @@
-小三英语,#genre#
-Unit 1 Hello P1,https://mpvideo.qpic.cn/0b78umaaeaaa5uahgjz5rjqvbi6dakrqaaqa.f10003.mp4?dis_k=43190400e46be5bccccfc9a6c4cbd5e0&dis_t=1662697822&vid=wxv_2043873996030509057&format_id=10003&support_redirect=0&mmversion=false
-Unit 1 Hello P2, https://mpvideo.qpic.cn/0bf2puaa6aaafaah5ij5pfqva7odb56qadya.f10003.mp4?dis_k=14b8a0bcfd8ad65441a4b3927bf0f7fa&dis_t=1662697534&vid=wxv_2043874111558418434&format_id=10003&support_redirect=0&mmversion=false
-Unit 1 Hello P3, https://mpvideo.qpic.cn/0b78qiaaeaaa3yahhej5ojqvbawdakbaaaqa.f10003.mp4?dis_k=756ff3809f8dd9c38fbf5c865d339875&dis_t=1663127250&vid=wxv_2043874230877978627&format_id=10003&support_redirect=0&mmversion=false
-Unit 1 Hello P4, https://mpvideo.qpic.cn/0bf27eaa2aaateahzdb5qfqvb6odbx4qadia.f10003.mp4?dis_k=1a41ba4f62005455ae3047300ec02389&dis_t=1663218108&vid=wxv_2043874302734794754&format_id=10003&support_redirect=0&mmversion=false
-小三数学,#genre#
-第1单元 认识秒, https://r1-ndr.ykt.cbern.com.cn/edu_product/65/video/4bd41ff1167f4e3ea7aaf51427e82b99/9436da25a44bbc57c77f4cc6760d33c1.1280.720.false/9436da25a44bbc57c77f4cc6760d33c1.1280.720.m3u8
-第1单元 时间单位的换算, https://r1-ndr.ykt.cbern.com.cn/edu_product/65/video/54893f48841041b5afce0c425c71de59/a29af0aa408d94b1e741eac310fa5452.1280.720.false/a29af0aa408d94b1e741eac310fa5452.1280.720.m3u8
-第1单元 计算经过时间, https://r1-ndr.ykt.cbern.com.cn/edu_product/65/video/9c5d067e7f3e4a16ab63ac26b1f9ca73/9dbf6e17424a939b1ac80882d848d5a3.1280.720.false/9dbf6e17424a939b1ac80882d848d5a3.1280.720.m3u8
-第2单元 万以内加减法(一)(1),https://r1-ndr.ykt.cbern.com.cn/edu_product/65/video/28cd634555c048cc9493b7a0f2c1c12c/71d8e48cc9333605d446626a3f5d5341.1280.720.false/71d8e48cc9333605d446626a3f5d5341.1280.720.m3u8
-第2单元 万以内加减法(一)(2), https://r1-ndr.ykt.cbern.com.cn/edu_product/65/video/887f46f5b25244d38da85de760f3cc45/f83bb16ffdeda1ef2ca473ff2227db4d.1280.720.false/f83bb16ffdeda1ef2ca473ff2227db4d.1280.720.m3u8
-第2单元 万以内加减法(一)(3), https://r1-ndr.ykt.cbern.com.cn/edu_product/65/video/b1e05d370ea5415aaba37db3efd04a86/9917c4d65b68eba742dd350af2eace39.1280.720.false/9917c4d65b68eba742dd350af2eace39.1280.720.m3u8
-第2单元 解决问题, https://r1-ndr.ykt.cbern.com.cn/edu_product/65/video/9ac519264f3044748cadd1fc1423b58d/1da41b1cb670ca7249e0e773c71f3657.1280.720.false/1da41b1cb670ca7249e0e773c71f3657.1280.720.m3u8
-第2单元 整理与复习,https://r1-ndr.ykt.cbern.com.cn/edu_product/65/video/8f25403b0f094f2aa9371969bef39a26/194895b2f43b790d48c2940e9acf3cec.1280.720.false/194895b2f43b790d48c2940e9acf3cec.1280.720.m3u8
-小三语文,#genre#
-第1单元 三年级上册学习导引, https://r1-ndr.ykt.cbern.com.cn/edu_product/65/video/17b71aa3547a11eb96b8fa20200c3759/3010550171b34a6283d7b7953ac169a9.1280.720.false/3010550171b34a6283d7b7953ac169a9.1280.720.m3u8
-第1单元 1《大青树下的小学》（1）,https://r1-ndr.ykt.cbern.com.cn/edu_product/65/video/17af6d2c547a11eb96b8fa20200c3759/320453db57f6b8712661fedee23526a5.1280.720.false/320453db57f6b8712661fedee23526a5.1280.720.m3u8
-第1单元 1《大青树下的小学》（2）, https://r1-ndr.ykt.cbern.com.cn/edu_product/65/video/17b1a1c4547a11eb96b8fa20200c3759/c9f48f086296d30888f350ad99688759.1280.720.false/c9f48f086296d30888f350ad99688759.1280.720.m3u8
-第1单元 2《花的学校》（1）, https://r1-ndr.ykt.cbern.com.cn/edu_product/65/video/17b6f283547a11eb96b8fa20200c3759/7667ad5727a7c27d498194dda30b87bc.1280.720.false/7667ad5727a7c27d498194dda30b87bc.1280.720.m3u8
-第1单元 2《花的学校》（2）, https://r1-ndr.ykt.cbern.com.cn/edu_product/65/video/17b3fda7547a11eb96b8fa20200c3759/e27418e14b530542dda11a840842e8b2.1280.720.false/e27418e14b530542dda11a840842e8b2.1280.720.m3u8
-第1单元 3《不懂就要问》, https://r1-ndr.ykt.cbern.com.cn/edu_product/65/video/17b28bed547a11eb96b8fa20200c3759/6f057bd5ad6c5165e31c3296f36e9137.1280.720.false/6f057bd5ad6c5165e31c3296f36e9137.1280.720.m3u8
-第1单元 口语交际《我的暑假生活》, https://r1-ndr.ykt.cbern.com.cn/edu_product/65/video/17b6db89547a11eb96b8fa20200c3759/de7c1db38040109af1bf313a89f557be.1280.720.false/de7c1db38040109af1bf313a89f557be.1280.720.m3u8
-第1单元 习作《猜猜他是谁》（1）,https://r1-ndr.ykt.cbern.com.cn/edu_product/65/video/17b259de547a11eb96b8fa20200c3759/be2be74edbe5c8a013e06b7bebc7029a.1280.720.false/be2be74edbe5c8a013e06b7bebc7029a.1280.720.m3u8
-第1单元 习作《猜猜他是谁》（2）, https://r1-ndr.ykt.cbern.com.cn/edu_product/65/video/17b08cda547a11eb96b8fa20200c3759/87b2cd51b9bb3b9b04bce34c7e0babd1.1280.720.false/87b2cd51b9bb3b9b04bce34c7e0babd1.1280.720.m3u8
-语文园地一第1课时, https://apd-221c1fcdcca5097804bbf4bb9461e2b7.v.smtcdns.com/om.tc.qq.com/A-kiSk3plCcDK2nqMkU4fvNqijyyS7rpnvO-YD9XAw2s/uwMROfz2r5zAoaQXGdGnC2dfDma7NyshNhpHvcEisM-VRrjn/o311669e0nx.mp4?sdtfrom=v1104&guid=a88c047022f922ef8e85a79ae936890e&vkey=FFB15354F8C91AE12A3438F904955A971F9D49203C2CA3ABF142A1B9C44D32ACC346C393BA89BD34410DD6176DED2BB1C3EC07C83D1A14B80A1D586140F55A924973AF02DFFC5F722D34CFAD8337C3002271971F478769C212FBDE38630D1B967CC730ED06835FE91B2ED5FF6CA910A675B8D11789FF601E8152C5B31C7D4D43A4C4A4B12F3C95D9
-语文园地一第2课时, https://apd-8321738f58f0de378415c65c5ec96aba.v.smtcdns.com/om.tc.qq.com/ANRUE35W_hd_CKIk5xjufDT90nJ26iRFqbc0gCC8YYz0/uwMROfz2r5zBIaQXGdGnC2dfDma3J1MItM3912IN4IRQvkRM/o3116cuddyd.mp4?sdtfrom=v1104&guid=a88c047022f922ef8e85a79ae936890e&vkey=1E107F98CA02BE1EAF4EBC8DE8D82186610D1543FDB33B34E17D3C7D58532D5211997F9068F384F996E7A4C9B3B201FA08900C728063DA5B92E912069525ECF169F91AAABFEE8C4AD6EE22FC49D589C3C6751BD629C131B6F0A1D7DCCED8E8C6F4302AD848F70AA3D41A137E3CFE8D0245D2784F91436651995A248C1F676E35E4D2F15F382E92A5
-
+在线学习,#genre#
+英语,https://download.kstore.space/download/2900/jar/yy.mp4
+语文,https://download.kstore.space/download/2900/jar/yw.mp4
+数学,https://download.kstore.space/download/2900/jar/sx.mp4
 电视频道,#genre#
 CCTV1[1920*1080],http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
 CCTV1[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225642/index.m3u8?$移动超清1080P
@@ -255,7 +232,6 @@ CGTN[1024*576],http://39.135.138.58:18890/ysten-businessmobile/live/cctvennews/1
 河南卫视[1920*1080],http://39.134.65.166/PLTV/88888888/224/3221225890/index.m3u8
 云南卫视[1280*720],http://125.210.152.19:9090/live/hzgq-ynwsgq-h264.m3u8
 山西卫视[1920*1080],http://055042edb00196e0e67b01fb7dc4fdff.livehwc3.cn/liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=c062cf4d4719f2fad44a894192891042
-
 体育赛事,#genre#
 CCTV5[1920*1080],http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
 CCTV5[1920*1080],http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
@@ -291,7 +267,6 @@ NewTV精品体育[1920*1080],http://39.135.138.58:18890/PLTV/88888910/224/322122
 博斯運動二台,p2p://fccs.word-tv.com:9906/6261364f000a426f187341173b92f79b	
 博斯魅力網,p2p://fccs.word-tv.com:9906/6260e5df0005c49317390a70b64c7b9b
 博斯網球台,p2p://fccs.word-tv.com:9906/6259b8080009f08a1520feb706074e92
-
 少儿频道,#genre#
 求索纪录,http://39.134.66.2/PLTV/88888888/224/3221225713/index.m3u8#http://39.134.65.106/PLTV/88888888/224/3221225713/index.m3u8#http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=no#http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8#http://39.134.65.208/PLTV/88888888/224/3221225713/index.m3u8#http://39.135.135.39/PLTV/88888888/224/3221225713/index.m3u8
 求索科学,http://39.134.66.4/PLTV/88888888/224/3221225728/index.m3u8#http://111.11.123.49:6610/000000001000/6000000002000032344/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1218020220429143356239632&channel-id=wasusyt&Contentid=6000000002000032344#http://39.134.65.106/PLTV/88888888/224/3221225728/index.m3u8#http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=no
@@ -379,7 +354,6 @@ BBC Lifestyle,p2p://fccs.word-tv.com:9906/62612d25000c2e05184f7584a93f9e5e
 动漫直播间23[1920*1080],http://epg.112114.xyz/douyu/674441
 动漫直播间24[1280*720],http://zzy789.xyz/bili.php?id=662181
 动漫直播间25[1280*720],http://zzy789.xyz/bili.php?id=14434
-
 地方频道,#genre#
 江西移动电视,http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv8.m3u8
 江西新闻[1280*720],http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv7.m3u8?zjiangxd
@@ -785,7 +759,6 @@ TV5Monde,p2p://ns2.hellotvvod.com:9906/ae237e3b26724bc99f6e1d48eb26ff88
 Arirang TV,p2p://ns2.hellotvvod.com:9906/5fddbcac000687bd0953331b467833b1
 VTV4,p2p://ns2.hellotvvod.com:9906/5ff5d6b7000976be677903601edb1d03
 東風衛視,p2p://147.135.39.171:9906/5ee3894d000983f2ce65d05916fb74df
-
 影视频道,#genre#
 埋堆堆1[1920*1080],http://txtest-xp2p.p2p.huya.com/src/1199563486009-1199563486009-5444345319443660800-2399127095474-10057-A-0-1.xs
 埋堆堆2[1920*1080],http://txtest-xp2p.p2p.huya.com/src/1199561276763-1199561276763-5434856680124841984-2399122676982-10057-A-0-1.xs
@@ -982,8 +955,6 @@ yi馆笑传[960*540],http://txtest-xp2p.p2p.huya.com/src/1449698185-1449698185-6
 【欧美电影】全程[1280*720],http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=29170933
 【科幻电影】24小时[1280*720],http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=14503914
 顶级欧美电影[1280*720],http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=24923327
-
-
 付费频道_99910328,#genre#
 歐美二,p2p://fccs.word-tv.com:9906/62c7c8780004d2ba0adcea1fd011de8e
 歐美三,p2p://fccs.word-tv.com:9906/62c7c8cb0008dcf50ade2f602a0f4a7b
