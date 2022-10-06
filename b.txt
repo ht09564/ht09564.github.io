@@ -1,6 +1,4 @@
-{
-
-//数据接口
+{//数据接口
    
 "sites": [
 {"key":"mtv_pc_酷云七七","name":"爬虫┃酷云七七","type":3,"api":"csp_Kunyu77"       ,"searchable":1,"quickSearch":1,"filterable":1},
@@ -123,9 +121,6 @@
 {"key": "UP主","name": "我爱测评","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://gitea.com/zwx/itv/raw/branch/dev/jy/ceping.txt","jar":"https://gitea.com/zwx/itv/raw/branch/dev/jar/bl.jar"},
 {"key": "EXCEL","name": "表格学习","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitea.com/zwx/itv/raw/branch/dev/jy/biaoge.txt","jar":"https://gitea.com/zwx/itv/raw/branch/dev/jar/bl.jar"},
 {"key":"csp_Yj1211","name": "在线直播","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
-//{"key": "csp_Blixs","name":"相声小品","type": 3,"api": "csp_Blixs","searchable": 1,"quickSearch": 1,"filterable": 1},
-//{"key": "csp_Blidw" ,"name":"动物世界","type": 3,"api": "csp_Blidw","searchable": 1,"quickSearch": 1,"filterable": 1},
-//{"key": "csp_Blixq","name":"戏曲频道","type": 3,"api": "csp_Blixq","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_xpath_88kanqiu","name":"赛事直播","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/Yoursmile/TVBox/raw/branch/main/sub/88kanqiu.json"},
 {"key": "csp_xpath_qiumi","name": "球赛直播","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://cdn.staticaly.com/gh/tvba/x/main/516-qiumi.js"},
 {"key": "精工厂","name": "禁·精工厂","type": 0,"api": "https://jgczyapi.com/home/cjapi/kld2/mc/vod/xml","searchable": 1,"quickSearch":1,"filterable":0,"jar":"https://gitea.com/zwx/itv/raw/branch/dev/jar/18.jar"},
@@ -422,10 +417,8 @@
 
 "spider":"https://download.kstore.space/download/2900/jar/cs.jar",
   
-  "wallpaper":"https://tool.weetai.cn/api",
-//首页推荐
-
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
+//首页推荐
 
    "recommend": [{"name": "豆瓣推荐","request": {"method": "GET","header": [{"key": "Referer","value": "https://movie.douban.com/"}],
    

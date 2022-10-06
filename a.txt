@@ -1,6 +1,15 @@
-
 {
     "sites": [ 
+       {
+            "key": "Bili",
+            "name": "Bili(爬虫)",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://download.kstore.space/download/2900/jar/Bili.json"
+        },
         {
             "key": "77",
             "name": "77(爬虫)",
@@ -135,16 +144,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "Gitcafe",
-            "name": "小纸条(爬虫)",
-            "type": 3,
-            "api": "csp_Gitcafe",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "14ab7929c5724ffd9c3431d8fa19d421"
         },
         {
             "key": "zhaozy",
@@ -305,81 +304,44 @@
             "filterable": 1
         },
         {
-            "key": "Bili",
-            "name": "Bili(爬虫)",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/bili.json"
-        },
-        {
-            "key": "知识",
-            "name": "知识学堂(爬虫)",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/xx1.json"
-        },
-        {
-            "key": "儿童",
-            "name": "儿童(爬虫)",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/xx2.json"
-        },
-        {
-            "key": "小学",
-            "name": "小学(爬虫)",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/xx3.json"
-        },
-        {
-            "key": "初中",
-            "name": "初中(爬虫)",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/xx4.json"
-        },
-        {
-            "key": "高中",
-            "name": "高中(爬虫)",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/xx5.json"
-        },
-        {
-            "key": "推送",
-            "name": "推送",
+            "key":"csp_XYQBiu_虎牙直播",
+            "name":"虎牙直播",
             "type":3,
-            "api":"csp_PushAgent",
+            "api":"csp_XYQBiu",
             "searchable":0,
             "quickSearch":0,
-            "filterable":0,
-            "ext": "14ab7929c5724ffd9c3431d8fa19d421"
+            "filterable":0,"ext":"https://download.kstore.space/download/2900/jar/huya.json"
+        },
+        {
+            "key":"csp_xBPQ_巨人",
+            "name":"巨人",
+            "type":3,
+            "api":"csp_xBPQ",
+            "searchable":0,
+            "quickSearch":0,
+            "filterable":0,"ext":"https://download.kstore.space/download/2900/jar/巨人.json"
         }
     ],
-       "lives":[
-{"group":"redirect","channels":[
-    {"name":"live","urls":[
-        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjb2RlLm5ldC9rdXVrZXkvYS8tL3Jhdy9tYXN0ZXIvdHZsaXZlLnR4dA=="
-    ]}]}],
+     
+       //"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=https://ht09564.github.io/mytv.txt"]}]}],  
+          "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=https://download.kstore.space/download/2900/mytv.txt"]}]}],
+          
+          "wallpaper": "https://picsum.photos/1280/720/?blur=10",
+          
+          "spider":"https://download.kstore.space/download/2900/jar/0928.jar",
+          
+          "recommend": [{"name": "豆瓣推荐","request": {"method": "GET","header": [{"key": "Referer","value": "https://movie.douban.com/"}],
+   
+          "url": {"raw": "https://movie.douban.com/j/new_search_subjects?sort=U&range=0,10&tags=&playable=1&start=0&year_range=2022,2022"}},
+
+          "response": {"result": "$.data","data": [{"key": "name","value": "title"},{"key": "note","value": "rate"},{"key": "pic","value": "cover"}]}}],
+
+          "subtitle": {"color": "#FFFFFF", "size": "18"},
+
+          "hotSearch": [{"name": "mobilesearch","request": {"method": "GET","header": [ {"key": "Referer","value": "https://v.qq.com/"}],"url": {"raw": "https://node.video.qq.com/x/api/hot_mobilesearch?channdlId=0&_={time}"}},
+   
+          "response": { "result": "$.data.itemList","data": [{"key": "keyword","value": "title"}]}}],
+          
      "parses": [
     {"name":"解析聚合","type":3,"url":"Demo"},
     {"name":"Json并发","type":2,"url":"Parallel"},
@@ -387,41 +349,10 @@
     {"name": "keyu","type": 1,"url": "http://newjiexi.gotka.top/keyu3.php?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header": {"User-Agent": "okhttp/4.1.0"}}},
     {"name": "GGTV自用",   "type": 1,   "url": "https://play.fuqizhishi.com/jx/API.php?appkey=xiaobaiiii&url="},  
     {"name": "GGTV搜集",   "type": 1,   "url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="},
-    {"name":"okjx",
-    "type":0,
-    "url":"https://okjx.cc/?url="}
-    ],
-    "flags":[
-"youku",
-"qq",
-"QQ",
-"iqiyi",
-"qiyi",
-"letv",
-"sohu",
-"tudou",
-"pptv",
-"PPTV",
-"mgtv",
-"ltnb",
-"rx",
-"CL4K",
-"xfyun",
-"wuduzy",
-"wasu",
-"bilibili",
-"renrenmi",
-"xmm",
-"xigua",
-"m1905",
-"funshion",
-"优酷",
-"芒果",
-"腾讯",
-"爱奇艺",
-"奇艺",
-"哔哩哔哩",
-"哔哩"],
+    {"name":"okjx",    "type":0,    "url":"https://okjx.cc/?url="}],
+    
+    "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","ltnb","rx","CL4K","xfyun","wuduzy","wasu","bilibili","renrenmi","xmm","xigua","m1905","funshion","优酷","芒果","腾讯","爱奇艺","奇艺","哔哩哔哩","哔哩"],
+    
     "ijk": [
         {
             "group": "软解码",
@@ -642,7 +573,4 @@
         "qiu.xixiqiu.com",
         "cdnjs.hnfenxun.com",
         "cms.qdwght.com"
-    ],
-       "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-       "spider":"https://gitcode.net/kuukey/a/-/raw/master/jar/cs.jar;md5;3b376fbe31fb80bf131203fae225fff5"
-}
+    ]}
