@@ -21,10 +21,10 @@ proxies:
   - {name: YouTube梦歌14, server: h961359.strongpipe.live, port: 11545, type: http, username: dcf12c7e7d, password: 26bae9b023, tls: true}
   - {name: YouTube梦歌15, server: h961359.strongpipe.live, port: 11245, type: http, username: dcf12c7e7d, password: 26bae9b023, tls: true}
   - {name: YouTube梦歌16, server: h961359.strongpipe.live, port: 11745, type: http, username: dcf12c7e7d, password: 26bae9b023, tls: true}
-  - {name: YouTube梦歌17, server: h961359.strongpipe.live,port: 11345,type: http,username: dcf12c7e7d,password: 26bae9b023,tls: true,skip-cert-verify: true}
-  - {name: YouTube梦歌18,  server: h961359.strongpipe.live, port: 11543, type: http, username: dcf12c7e7d, password: 26bae9b023, tls: true, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌19, server: ap-northeast.6641634715834932.me, port: 443, type: trojan, password: 5c777277-17f2-4272-ae65-7bd00fa4fbaa, sni: wel-hgc.optage.moe}
-  - {name: YouTube梦歌20, server: 23.100.91.117, port: 443, type: trojan, password: 6d8d2ced-54da-4e79-bfae-2ed55345b954, sni: rprknb2lcp.eastasia.cloudapp.azure.com}
+  - {name: YouTube梦歌17,  server: zf1.windowsupdate1.com, port: 50010, type: trojan, password: 275d9aa8-b271-43d1-b1cf-1f3e6e881047, sni: glc.hruqoaw.cn}
+  - {name: YouTube梦歌18, server: zf1.windowsupdate1.com, port: 50070, type: trojan, password: 275d9aa8-b271-43d1-b1cf-1f3e6e881047, sni: glc.hruqoaw.cn}
+  - {name: YouTube梦歌19, server: zf1.windowsupdate1.com, port: 50020, type: trojan, password: 275d9aa8-b271-43d1-b1cf-1f3e6e881047, sni: glc.hruqoaw.cn}
+  - {name: YouTube梦歌20, server: zf1.windowsupdate1.com, port: 50030, type: trojan, password: 275d9aa8-b271-43d1-b1cf-1f3e6e881047, sni: glc.hruqoaw.cn}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
