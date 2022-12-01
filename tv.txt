@@ -848,7 +848,7 @@
  电影大片,http://txtest-xp2p.p2p.huya.com/src/1448738174-1448738174-6222283077796757504-2847699112-10057-A-0-1.xs$高清1080P
  仙侠玄幻,http://txtest-xp2p.p2p.huya.com/src/1423787882-1423787882-6115122389631107072-2847699220-10057-A-0-1.xs$高清1080P
  豆瓣高分,http://wtv.weetai.cn/iptv/2022/tyzb04.php?id=1800558$高清1080P
- 高分经典, http://wtv.weetai.cn/iptv/2022/tyzb09.php?id=6079455$高清1080P
+ 高分经典,http://wtv.weetai.cn/iptv/2022/tyzb09.php?id=6079455$高清1080P
  金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8$高清1080P
  军旅剧场,http://39.134.66.66/PLTV/88888888/224/3221225560/index.m3u8$高清1080P
  军旅剧场,http://39.135.138.59:18890/PLTV/88888910/224/3221225669/index.m3u8$高清1080P
