@@ -24,7 +24,7 @@ proxies:
   - {name: YouTube梦歌17,  server: zf1.windowsupdate1.com, port: 50010, type: trojan, password: 275d9aa8-b271-43d1-b1cf-1f3e6e881047, sni: glc.hruqoaw.cn}
   - {name: YouTube梦歌18, server: zf1.windowsupdate1.com, port: 50070, type: trojan, password: 275d9aa8-b271-43d1-b1cf-1f3e6e881047, sni: glc.hruqoaw.cn}
   - {name: YouTube梦歌19, server: 20yd.mealstream.xyz, port: 443, type: vmess, uuid: 8578dc92-3097-4dd5-941a-5e6ebeaa91ba, alterId: 0, cipher: auto, tls: true}
-  - {name: YouTube梦歌20, server: 17hg.mealstream.xyz, port: 443, type: vmess, uuid: 8578dc92-3097-4dd5-941a-5e6ebeaa91ba, alterId: 0, cipher: auto, tls: true}
+  - {name: YouTube梦歌20, server: cmcc.kuaiyin.uk, port: 15648, type: trojan, password: 5ea2e450-9ccc-3bf8-a41e-540368e0c358, sni: cmcc.kuaiyin.uk, skip-cert-verify: true, udp: true}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
