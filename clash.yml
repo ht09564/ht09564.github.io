@@ -6,7 +6,7 @@ log-level: info
 external-controller: :9090
 proxies:
   - {name: YouTube梦歌1, server: hr05.clashcloud.tech, port: 52904, type: ssr, cipher: rc4-md5, password: XC3Rcr, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com, udp: true}
-  - {name: YouTube梦歌2, server: cmcc.kuaiyin.uk, port: 15648, type: trojan, password: 5ea2e450-9ccc-3bf8-a41e-540368e0c358, sni: cmcc.kuaiyin.uk, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌2, server: 06.yun.tips, port: 48606, type: ssr, cipher: aes-256-cfb, password: GjRQkK, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 1955:K98a7P, obfs-param: eef621955.microsoft.com, udp: true}
   - {name: YouTube梦歌3, server: 141.101.114.120, port: 443, type: vmess, uuid: 33aa57df-1c93-4318-9fce-e850437ee781, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /dongtaiwang.com, ws-headers: {Host: lg1.cfcdn3.xyz}, udp: true}
   - {name: YouTube梦歌4, server: 185.162.228.230, port: 443, type: vmess, uuid: 17b2a313-37a0-4945-a8e4-e63375506b4a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /A2DJOPFT, ws-headers: {Host: lg10.cfcdn1.xyz}, udp: true}
   - {name: YouTube梦歌5, server: idt3.sshocean.net, port: 443, type: trojan, password: 12127cb9-672a-459b-895e-29d433983125, sni: idt3.sshocean.net}
