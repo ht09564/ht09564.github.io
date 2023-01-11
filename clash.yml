@@ -5,77 +5,47 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
-  - {name: YouTube梦歌1, server: hr05.clashcloud.tech, port: 52904, type: ssr, cipher: rc4-md5, password: XC3Rcr, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com, udp: true}
-  - {name: YouTube梦歌2, server: 06.yun.tips, port: 48606, type: ssr, cipher: aes-256-cfb, password: GjRQkK, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 1955:K98a7P, obfs-param: eef621955.microsoft.com, udp: true}
-  - {name: YouTube梦歌3, server: 141.101.114.120, port: 443, type: vmess, uuid: 33aa57df-1c93-4318-9fce-e850437ee781, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /dongtaiwang.com, ws-headers: {Host: lg1.cfcdn3.xyz}, udp: true}
-  - {name: YouTube梦歌4, server: 185.162.228.230, port: 443, type: vmess, uuid: 17b2a313-37a0-4945-a8e4-e63375506b4a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /A2DJOPFT, ws-headers: {Host: lg10.cfcdn1.xyz}, udp: true}
-  - {name: YouTube梦歌5, server: idt3.sshocean.net, port: 443, type: trojan, password: 12127cb9-672a-459b-895e-29d433983125, sni: idt3.sshocean.net}
-  - {name: YouTube梦歌6, server: ca05.clashcloud.tech, port: 52904, type: ssr, cipher: rc4-md5, password: XC3Rcr, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com, udp: true}
-  - {name: YouTube梦歌7, server: 23.227.38.38, port: 443, type: vmess, uuid: 40d496a6-ceeb-4096-baeb-4cc52b205621, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /ECTCJ0DF, ws-headers: {Host: lg1.trump2023.us}, udp: true}
-  - {name: YouTube梦歌8, server: 20011.purefast2.com, port: 20011, type: trojan, password: fe45c260-365d-3da1-abfe-a23c2577d8d6, sni: purefast1.com}
-  - {name: YouTube梦歌9, server: 34.72img.xyz, port: 443, type: vmess, uuid: 81d93f62-15a2-4994-adb9-0b5d906aac7e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 34.72img.xyz}}}
-  - {name: YouTube梦歌10,  server: 45.64.22.55, port: 443, type: trojan, password: ZRYSly2IRuFlgpZCaep3Ey3DDXqTDczO04aeC8F36OjaYSCABnA573wN8xxK9S, sni: httah.freetrade.link}
-  - {name: YouTube梦歌11, server: 43.72img.xyz, port: 443, type: vmess, uuid: 81d93f62-15a2-4994-adb9-0b5d906aac7e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 43.72img.xyz}}}
-  - {name: YouTube梦歌12, server: iplctw1.bitznet.one, port: 34003, type: trojan, password: d91e58e8-0ce1-495d-b7a7-0bb96200884e, sni: cert.bitbyte.one}
-  - {name: YouTube梦歌13, server: ap-northeast.6641634715834932.me, port: 443, type: trojan, password: 5c777277-17f2-4272-ae65-7bd00fa4fbaa, sni: wel-hgc.optage.moe}
-  - {name: YouTube梦歌14, server: 14.72img.xyz, port: 443, type: vmess, uuid: 81d93f62-15a2-4994-adb9-0b5d906aac7e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 14.72img.xyz}}}
-  - {name: YouTube梦歌15, server: apollo.cn.v4.hdsky.org, port: 28178, type: ss, cipher: chacha20-ietf-poly1305, password: f32f863d-2e3c-4bf3-9f95-049f22e2302d}
-  - {name: YouTube梦歌16, server: 194.87.248.27, port: 26743, type: vmess, uuid: 59952a8e-b712-4190-d85e-f9aadd65faa0, alterId: 0, cipher: auto, tls: false, network: http, http-opts: {method: GET, path: [/]}}
-  - {name: YouTube梦歌17,  server: 103.81.85.238, port: 443, type: trojan, password: b874173c-dfc6-40f4-9542-d973997f9659, sni: glc.hruqoaw.cn, skip-cert-verify: false}
-  - {name: YouTube梦歌18, server: 103.173.255.127, port: 443, type: trojan, password: b874173c-dfc6-40f4-9542-d973997f9659, sni: glc.hruqoaw.cn, skip-cert-verify: false}
-  - {name: YouTube梦歌19, server: 20yd.mealstream.xyz, port: 443, type: vmess, uuid: 8578dc92-3097-4dd5-941a-5e6ebeaa91ba, alterId: 0, cipher: auto, tls: true}
-  - {name: YouTube梦歌20, server: cmcc.kuaiyin.uk, port: 15648, type: trojan, password: 5ea2e450-9ccc-3bf8-a41e-540368e0c358, sni: cmcc.kuaiyin.uk, skip-cert-verify: true, udp: true}
+  - {name: xyd1, server: uk1.trojanvh.xyz, port: 80, type: trojan, password: 211f5876-8c89-4d97-9004-ff16acddd506, sni: uk1.trojanvh.xyz, skip-cert-verify: true, udp: true}
+  - {name: xyd2, server: 172.99.188.99, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true}
+  - {name: xyd3, server: v1-hk.xtspeeder001.xyz, port: 18001, type: vmess, uuid: 7affa329-5e15-369e-8929-b6452cdf2616, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: xyd4, server: 172.99.188.99, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: xyd5, server: 20011.purefast2.com, port: 20011, type: trojan, password: fe45c260-365d-3da1-abfe-a23c2577d8d6, sni: purefast1.com}
+  - {name: xyd6, server: ap-northeast.6641634715834932.me, port: 443, type: trojan, password: 5c777277-17f2-4272-ae65-7bd00fa4fbaa, sni: wel-hgc.optage.moe}
+  - {name: xyd8, server: 43-153-30-20.ipv4.rush.ml, port: 8443, type: trojan, password: cf4295378e209e70d12c5bdd017144dfd1c772d3, sni: 43-153-30-20.ipv4.rush.ml, skip-cert-verify: true, udp: true}
+  - {name: xyd9, server: 194.87.248.27, port: 26743, type: vmess, uuid: 59952a8e-b712-4190-d85e-f9aadd65faa0, alterId: 0, cipher: auto, tls: false, network: http, http-opts: {method: GET, path: [/]}}
+  - {name: xyd10,  server: 103.81.85.238, port: 443, type: trojan, password: b874173c-dfc6-40f4-9542-d973997f9659, sni: glc.hruqoaw.cn, skip-cert-verify: false}
+  - {name: xyd7, server: 103.173.255.127, port: 443, type: trojan, password: b874173c-dfc6-40f4-9542-d973997f9659, sni: glc.hruqoaw.cn, skip-cert-verify: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - YouTube梦歌1
-      - YouTube梦歌2
-      - YouTube梦歌3
-      - YouTube梦歌4
-      - YouTube梦歌5
-      - YouTube梦歌6
-      - YouTube梦歌7
-      - YouTube梦歌8
-      - YouTube梦歌9
-      - YouTube梦歌10
-      - YouTube梦歌11
-      - YouTube梦歌12
-      - YouTube梦歌13
-      - YouTube梦歌14
-      - YouTube梦歌15
-      - YouTube梦歌16
-      - YouTube梦歌17
-      - YouTube梦歌18
-      - YouTube梦歌19
-      - YouTube梦歌20
+      - xyd1
+      - xyd2
+      - xyd3
+      - xyd4
+      - xyd5
+      - xyd6
+      - xyd7
+      - xyd8
+      - xyd9
+      - xyd10
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
-      - YouTube梦歌1
-      - YouTube梦歌2
-      - YouTube梦歌3
-      - YouTube梦歌4
-      - YouTube梦歌5
-      - YouTube梦歌6
-      - YouTube梦歌7
-      - YouTube梦歌8
-      - YouTube梦歌9
-      - YouTube梦歌10
-      - YouTube梦歌11
-      - YouTube梦歌12
-      - YouTube梦歌13
-      - YouTube梦歌14
-      - YouTube梦歌15
-      - YouTube梦歌16
-      - YouTube梦歌17
-      - YouTube梦歌18
-      - YouTube梦歌19
-      - YouTube梦歌20
+      - xyd1
+      - xyd2
+      - xyd3
+      - xyd4
+      - xyd5
+      - xyd6
+      - xyd7
+      - xyd8
+      - xyd9
+      - xyd10
 rules:
  - DOMAIN-SUFFIX,1password.com,🚀 节点选择
  - DOMAIN-SUFFIX,adguard.org,🚀 节点选择
