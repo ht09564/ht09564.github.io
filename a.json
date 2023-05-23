@@ -1,25 +1,14 @@
 {
   "sites": [
     {
-      "key":"相声小品",
-      "name":"🅱️相声小品",
+      "key":"演唱会",
+      "name":"🅱️演唱会",
       "type":3,
       "api":"csp_Bili",
       "searchable":0,
       "quickSearch":0,
       "filterable":1,
-      "ext":"https://dpaste.com/AQ685UCNX.txt",
-      "jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/lllyin/assets/master/看戏.png"
-    },
-    {
-      "key":"戏 曲",
-      "name":"🅱️戏曲",
-      "type":3,
-      "api":"csp_Bili",
-      "searchable":0,
-      "quickSearch":0,
-      "filterable":1,
-      "ext":"https://dpaste.com/AQ685UCNX.txt",
+      "ext":"https://ht09564.github.io/js/音乐演唱.json",
       "jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/lllyin/assets/master/看戏.png"
     },
     {
@@ -2115,8 +2104,7 @@
       ]
     }
   ],
-  "lives":[{"name":"live","type":0,"url":"https://qu.ax/DSFC.png","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"
-    }],
+  "lives":[{"name":"live","type":0,"url":"https://qu.ax/DSFC.png","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
       "parses": [
     {
       "name": "解析聚合",
