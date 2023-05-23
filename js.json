@@ -2,7 +2,7 @@
 "spider": "https://ht09564.github.io/fm.jar",
 "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
 "sites": [
-{"key": "js豆瓣","name": "🅱豆豆","type": 3,"api":"https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js","ext":"https://jihulab.com/duomv/duo/-/raw/main/js/douban.js","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key": "js豆瓣","name": "🅱豆豆","type": 3,"api":"https://download.kstore.space/download/2900/lib/drpy2.min.js","ext":"https://jihulab.com/duomv/duo/-/raw/main/js/douban.js","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key": "csp_Bili","name": "🅱哔哔┃合集","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 0,"filterable": 0,"changeable": 0,"ext": "https://download.kstore.space/download/2900/jar/sub/bilibili.json"},
 {"key": "csp_Biliych","name": "🅱哔哔┃演唱会","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 0,"filterable": 1,"changeable": 0,"ext": "https://download.kstore.space/download/2900/jar/sub/biliych.json"},
 {"key": "csp_WoGG","name": "👽玩偶哥哥┃4K","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://download.kstore.space/download/2900/jar/sub/token.txt"},
@@ -47,7 +47,7 @@
 {"key": "小学课堂","name": "📚小学┃课堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://download.kstore.space/download/2900/jar/sub/%E5%B0%8F%E5%AD%A6%E8%AF%BE%E5%A0%82.json"},
 {"key": "初中课堂","name": "📚初中┃课堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://download.kstore.space/download/2900/jar/sub/%E5%88%9D%E4%B8%AD%E8%AF%BE%E5%A0%82.json"},
  
-{"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"https://ht09564.github.io/lib/drpy2.min.js","ext":"https://ht09564.github.io/js/drpy.js"},
+{"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"https://download.kstore.space/download/2900/lib/drpy2.min.js","ext":"https://ht09564.github.io/js/drpy.js"},
 {"key":"bili","name":"B站 | Bili[jar]","type":3,"api":"csp_Bili","ext":"https://download.kstore.space/download/2900/jar/js/音乐演唱.json"},
 {"key":"drpy_js_我的哔哩","name":"我的哔哩[js]","type":3,"api":"https://download.kstore.space/download/2900/lib/drpy2.min.js","ext":"https://download.kstore.space/download/2900/jar/js/我的哔哩.js"},
 {"key":"AList","name":"网盘 | Alist[jar]","type":3,"api":"csp_AList","ext":"https://download.kstore.space/download/2900/jar/js/alistjar.json"},
@@ -285,9 +285,7 @@
 {"key":"drpy_js_真不卡儿","name":"影视 | 真不卡儿[js]","type":3,"api":"https://download.kstore.space/download/2900/lib/drpy2.min.js","ext":"https://download.kstore.space/download/2900/jar/js/真不卡.js"},
 {"key":"drpy_js_追剧达人","name":"影视 | 追剧达人[js]","type":3,"api":"https://download.kstore.space/download/2900/lib/drpy2.min.js","ext":"https://download.kstore.space/download/2900/jar/js/追剧达人.js"},
 {"key":"drpy_js_追剧啦儿","name":"影视 | 追剧啦儿[js]","type":3,"api":"https://download.kstore.space/download/2900/lib/drpy2.min.js","ext":"https://download.kstore.space/download/2900/jar/js/追剧啦.js"},
-{"key":"drpy_js_子子影视","name":"影视 | 子子影视[js]","type":3,"api":"https://download.kstore.space/download/2900/lib/drpy2.min.js","ext":"https://download.kstore.space/download/2900/jar/js/子子影视.js"},
-{"key":"Live","name":"影视直播","type":3,"api": "csp_Live","ext":"2000"},
-{"key": "push_agent","name": "阿里 | 推送","type": 3,"api": "csp_Push","ext": "https://download.kstore.space/download/2900/lib/token.txt"}],
+{"key":"drpy_js_子子影视","name":"影视 | 子子影视[js]","type":3,"api":"https://download.kstore.space/download/2900/lib/drpy2.min.js","ext":"https://download.kstore.space/download/2900/jar/js/子子影视.js"}],
 
 "lives": [{"name": "live","type": 0,"url": "https://download.kstore.space/download/2900/tv.txt","epg": "http://epg.112114.xyz/?ch={name}&date={date}"},
           {"name":"太阳","type":0,"url":"http://111.67.196.181/zhibo.txt"}],
