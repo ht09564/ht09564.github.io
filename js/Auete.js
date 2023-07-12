@@ -1,6 +1,6 @@
 var rule = {
   title:'Auete',
-  host:'https://auete.com',
+  host:'https://auete.org',
   // url:'/fyclassfyfilter/indexfypage.html[/fyclassfyfilter/index.html]',
   url:'/fyclassfyfilter/indexfypage.html[/fyclassfyfilter/index.html]',
   filterable:1,//是否启用分类筛选,
