@@ -1,0 +1,313 @@
+# ;不要随意改变关键字，否则会导致出错
+# ;acl4SSR规则
+# ;去广告：支持
+# ;自动测速：支持
+# ;微软分流：不支持
+# ;苹果分流：不支持
+# ;增强中国IP段：不支持
+# ;增强国外GFW：不支持
+# ;ruleset=🎯 全球直连,[]GEOIP,LAN
+
+mixed-port: 7890
+allow-lan: false
+mode: rule
+ipv6: false
+log-level: info
+external-controller: 0.0.0.0:9090
+dns:
+  enable: true
+  listen: 0.0.0.0:53
+  ipv6: false
+  default-nameserver:
+    - 223.5.5.5
+    - 114.114.114.114
+  nameserver:
+    - 223.5.5.5
+    - 114.114.114.114
+    - 119.29.29.29
+    - 180.76.76.76
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  fake-ip-filter:
+    - "*.lan"
+    - "*.localdomain"
+    - "*.example"
+    - "*.invalid"
+    - "*.localhost"
+    - "*.test"
+    - "*.local"
+    - "*.home.arpa"
+    - router.asus.com
+    - localhost.sec.qq.com
+    - localhost.ptlogin2.qq.com
+    - +.msftconnecttest.com
+tun:
+  enable: true
+  stack: system
+  auto-route: true
+  auto-detect-interface: true
+  dns-hijack:
+    - 114.114.114.114
+    - 180.76.76.76
+    - 119.29.29.29
+    - 223.5.5.5
+    - 8.8.8.8
+    - 8.8.4.4
+    - 1.1.1.1
+    - 1.0.0.1
+
+
+proxies:
+  - type: vless
+    name: 🇯🇵JP_@WangCai_8
+    server: 47.245.38.111
+    port: 443
+    uuid: 86b414b6-966e-4f6d-ab16-32049ef732d3
+    network: tcp
+    servername: www.autodesk.com
+    tls: true
+    encryption: none
+    reality-opts:
+      public-key: y167aJhpgWWjltY4UCir_uu8Mj__Hkc1W4etD0QXYH4
+      short-id: 860705e716cbe6ed
+    client-fingerprint: chrome
+  - type: trojan
+    name: 🇯🇵JP_@WangCai_8_1
+    server: 52.196.252.179
+    port: 443
+    password: 3b38715b-f08a-46dd-9904-7531ca4bb6e8
+    network: ws
+    sni: joss.gpj.web.id
+    skip-cert-verify: true
+    tls: true
+    ws-opts:
+      path: /Free-VPN-CF-Geo-Project/52.196.252.179=443
+      headers:
+        Host: joss.gpj.web.id
+  - type: ss
+    name: 🇸🇬 新加坡 18
+    server: sl.fgmcx.top
+    port: 41047
+    cipher: chacha20-ietf-poly1305
+    password: 014e90df-a3ee-4654-a9f6-d118e02dd02a
+  - type: ss
+    name: 🇭🇰HK_@WangCai_8
+    server: 202.162.109.229
+    port: 8388
+    cipher: chacha20-ietf
+    password: asd123456
+  - type: trojan
+    name: 🇰🇷KR_@WangCai_8
+    server: 120.196.204.227
+    port: 49214
+    password: ce834861-16d7-4c66-ad66-882a392a964e
+    network: tcp
+    sni: t.me/WangCai2
+    skip-cert-verify: true
+    tls: true
+  - type: trojan
+    name: 伊朗+V2CROSS.COM
+    server: 151.242.165.233
+    port: 3443
+    password: c2e3cdc0-bc72-3505-b2a9-ea5ed7bfa23f
+    network: tcp
+    sni: origin-a.akamaihd.net
+    skip-cert-verify: true
+    tls: true
+  - type: ss
+    name: 🇲🇩 摩尔多瓦 01
+    server: 185.153.197.5
+    port: 989
+    cipher: aes-256-cfb
+    password: f8f7aCzcPKbsF8p3
+  - type: vless
+    name: 美国10
+    server: 77.110.119.225
+    port: 443
+    uuid: 4819860c-0e62-4804-9c59-967e5c2bed7a
+    network: tcp
+    servername: st.ozone.ru
+    tls: true
+    encryption: none
+    reality-opts:
+      public-key: hnec5SxCD6Os-u0FNi_YS5CML1a_oWb0niZJ1mGuFBo
+      short-id: 07e904766d29b958
+    client-fingerprint: chrome
+    flow: xtls-rprx-vision
+  - type: vless
+    name: 哈萨克斯坦
+    server: 178.236.16.98
+    port: 35728
+    uuid: a00d89f6-ab7e-4e30-a5e5-54c701d62c93
+    network: tcp
+    servername: yahoo.com
+    tls: true
+    encryption: none
+    reality-opts:
+      public-key: vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng
+      short-id: 69a2
+    client-fingerprint: chrome
+  - type: ss
+    name: 俄罗斯
+    server: 213.159.66.206
+    port: 443
+    cipher: chacha20-ietf-poly1305
+    password: pl2XtR0pzwknQOGwewbwXtPYDw1zn9Vu
+  - type: hysteria2
+    name: xyd
+    server: cdfwlsfjgwvr.eu-central-1.clawcloudrun.com
+    port: 38384
+    password: sysadmin.sysadmin
+    skip-cert-verify: true
+  - type: vless
+    name: 🇯🇵JP_@WangCai_8_2
+    server: 47.245.38.111
+    port: 443
+    uuid: 86b414b6-966e-4f6d-ab16-32049ef732d3
+    network: tcp
+    servername: www.autodesk.com
+    tls: true
+    encryption: none
+    reality-opts:
+      public-key: y167aJhpgWWjltY4UCir_uu8Mj__Hkc1W4etD0QXYH4
+      short-id: 860705e716cbe6ed
+    client-fingerprint: chrome
+proxy-groups:
+  - name: 🚀 节点选择
+    type: select
+    proxies:
+      - ♻️ 自动选择
+      - DIRECT
+      - 🇯🇵JP_@WangCai_8
+      - 🇯🇵JP_@WangCai_8_1
+      - 🇸🇬 新加坡 18
+      - 🇭🇰HK_@WangCai_8
+      - 🇰🇷KR_@WangCai_8
+      - 伊朗+V2CROSS.COM
+      - 🇲🇩 摩尔多瓦 01
+      - 美国10
+      - 哈萨克斯坦
+      - 俄罗斯
+      - xyd
+      - 🇯🇵JP_@WangCai_8_2
+  - name: ♻️ 自动选择
+    type: url-test
+    proxies:
+      - 🇯🇵JP_@WangCai_8
+      - 🇯🇵JP_@WangCai_8_1
+      - 🇸🇬 新加坡 18
+      - 🇭🇰HK_@WangCai_8
+      - 🇰🇷KR_@WangCai_8
+      - 伊朗+V2CROSS.COM
+      - 🇲🇩 摩尔多瓦 01
+      - 美国10
+      - 哈萨克斯坦
+      - 俄罗斯
+      - xyd
+      - 🇯🇵JP_@WangCai_8_2
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+  - name: 🎯 全球直连
+    type: select
+    proxies:
+      - DIRECT
+      - 🚀 节点选择
+      - ♻️ 自动选择
+  - name: 🛑 全球拦截
+    type: select
+    proxies:
+      - REJECT
+      - DIRECT
+  - name: 🐟 漏网之鱼
+    type: select
+    proxies:
+      - 🚀 节点选择
+      - 🎯 全球直连
+      - ♻️ 自动选择
+      - 🇯🇵JP_@WangCai_8
+      - 🇯🇵JP_@WangCai_8_1
+      - 🇸🇬 新加坡 18
+      - 🇭🇰HK_@WangCai_8
+      - 🇰🇷KR_@WangCai_8
+      - 伊朗+V2CROSS.COM
+      - 🇲🇩 摩尔多瓦 01
+      - 美国10
+      - 哈萨克斯坦
+      - 俄罗斯
+      - xyd
+      - 🇯🇵JP_@WangCai_8_2
+rule-providers:
+  LocalAreaNetwork:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
+    path: ./rules/providers/LocalAreaNetwork.list
+    interval: 86400
+  BanAD:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list
+    path: ./rules/providers/BanAD.list
+    interval: 86400
+  BanProgramAD:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.list
+    path: ./rules/providers/BanProgramAD.list
+    interval: 86400
+  GoogleCN:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/GoogleCN.list
+    path: ./rules/providers/GoogleCN.list
+    interval: 86400
+  SteamCN:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/SteamCN.list
+    path: ./rules/providers/SteamCN.list
+    interval: 86400
+  Telegram:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Telegram.list
+    path: ./rules/providers/Telegram.list
+    interval: 86400
+  ProxyMedia:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyMedia.list
+    path: ./rules/providers/ProxyMedia.list
+    interval: 86400
+  ProxyLite:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyLite.list
+    path: ./rules/providers/ProxyLite.list
+    interval: 86400
+  ChinaDomain:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list
+    path: ./rules/providers/ChinaDomain.list
+    interval: 86400
+  ChinaCompanyIp:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaCompanyIp.list
+    path: ./rules/providers/ChinaCompanyIp.list
+    interval: 86400
+
+rules:
+  - RULE-SET,LocalAreaNetwork,🎯 全球直连
+  - RULE-SET,BanAD,🛑 全球拦截
+  - RULE-SET,BanProgramAD,🛑 全球拦截
+  - RULE-SET,GoogleCN,🎯 全球直连
+  - RULE-SET,SteamCN,🎯 全球直连
+  - RULE-SET,Telegram,🚀 节点选择
+  - RULE-SET,ProxyMedia,🚀 节点选择
+  - RULE-SET,ProxyLite,🚀 节点选择
+  - RULE-SET,ChinaDomain,🎯 全球直连
+  - RULE-SET,ChinaCompanyIp,🎯 全球直连
+  - GEOIP,CN,🎯 全球直连
+  - MATCH,🐟 漏网之鱼
